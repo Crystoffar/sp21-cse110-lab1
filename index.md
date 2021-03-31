@@ -4,7 +4,7 @@ Hi, my name is Christopher Vu and I'm a 2nd Year Computer Science Major from Rev
 
 ## About Me as a programmer
 A wise programmer (literally every CS Professor) once told me:
-> Start early, End Early
+> sTaRt eArLy, eNd eArLy
 
 However, obviously it has not been told to me enough because I haven't gotten it through to my brain. 
 
