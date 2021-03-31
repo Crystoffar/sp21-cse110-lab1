@@ -5,6 +5,7 @@ Hi, my name is Christopher Vu and I'm a 2nd Year Computer Science Major from Rev
 ## About Me as a programmer
 A wise programmer (literally every CS Professor) once told me:
 > Start early, End Early
+
 However, obviously it has not been told to me enough because I haven't gotten it through to my brain. 
 
 I'd like to say I'm a pretty good coder, I mean watch what I can do:
@@ -18,7 +19,8 @@ If I had to rate some of my favorite programmers, it'd have to be
 - Me
 - Myself
 - I
-Let's look at the stuff I need to do for this User Page
+
+Let's look at the stuff I needed to complete for this User Page
 - [x] Pictures
 - [x] Links
 - [x] Headings
@@ -29,4 +31,5 @@ Let's look at the stuff I need to do for this User Page
 - [x] Relative links
 - [x] Lists
 - [x] Task lists
+
 Wow looks like I'm done.
