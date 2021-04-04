@@ -20,6 +20,11 @@ If I had to rate some of my favorite programmers, it'd have to be
 - Myself
 - I
 
+If you told me to rank these I'd have to say
+1. I
+2. Me
+3. Myself
+
 Let's look at the stuff I needed to complete for this User Page
 - [x] Pictures
 - [x] Links
