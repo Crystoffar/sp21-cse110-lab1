@@ -1,2 +1,4 @@
 # Lab-1
-i like python because it's slow like me.
+Christopher Vu's User Page
+
+I like python because it's slow like me.
